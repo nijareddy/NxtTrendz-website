@@ -1,5 +1,7 @@
-# React Context Part | 4
+#install the packages using
+ npm install
 
-- Empty Cart View
-- Displaying Cart Items Count
-- Deployment
+#Start the Server using
+   npm start
+
+#your server will run
